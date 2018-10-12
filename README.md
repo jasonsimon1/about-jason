@@ -4,11 +4,11 @@
 ####   Bio: 16 Years Old
 ---
 # **Schedule:**  
-*1- Algebra  
- *2- Art  
-  *3- SEP11  
-   *4- History  
-    *5- Gym  
-     *6- English  
-      *7- Physics  
-       *8- Lunch  
+1- Algebra  
+2- Art  
+3- SEP11  
+4- History  
+5- Gym  
+6- English  
+7- Physics  
+8- Lunch  
