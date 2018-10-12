@@ -13,4 +13,4 @@
 7. Physics  
 8. Lunch  
 ---
-[School Website](www.Hstat.org)
+[School Website](http://www.hstat.org/)
