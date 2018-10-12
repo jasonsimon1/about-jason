@@ -1,7 +1,7 @@
 # Name: _Jason Simon_  
 ## Email: jasons0498@hstat.org  
-### school: HSTAT
-####  bio: 16 years old
+### School: HSTAT
+####   Bio: 16 Years Old
 ---
 # **Schedule:**  
 1- Algebra  
